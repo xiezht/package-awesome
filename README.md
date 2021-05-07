@@ -137,9 +137,9 @@
     - 私有网络（VPC）： https://github.com/devsapp/vpc
     - 日志服务（SLS）： https://github.com/devsapp/sls
 - 腾讯云
-    - 云函数（SCF）：https://github.com/devsapp/scf
+    - 云函数（SCF）：https://github.com/devscomp/scf
 - AWS
-    - Lambda：https://github.com/devsapp/lambda
+    - Lambda：https://github.com/devscomp/lambda
 
 ## 上层组件
 
