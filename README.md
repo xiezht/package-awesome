@@ -1,3 +1,4 @@
+# Package Awesome
 
 - [Serverless Devs Registry Application Awesome](#serverless-devs-registry-application-awesome)
 - [Serverless Devs Registry Component Awesome](#serverless-devs-registry-component-awesome)
