@@ -3,7 +3,7 @@
 -----
 
 <p align="center">
-    <span> <a href="./README_zh.md">中文文档</a> ｜English </span>
+    <span> 中文文档 ｜<a href="./README.md">English</a> </span>
 </p>
 
 ------
@@ -14,7 +14,7 @@
 
 # Serverless Devs Registry Application Awesome
 
-## Web Framework Application Cases
+## Web Framework应用案例
 
 <table>
 <tr>
@@ -85,46 +85,46 @@
 </tr>
 </table>
 
-## Application case of static website
+## 静态网站应用案例
 
-Static website case：https://github.com/devsapp/website-example
-- Application of common static resources: `s init devsapp/website-example:website-base`
-- react app `s init devsapp/website-example:website-react`
-- vue app `s init devsapp/website-example:website-vue`
-- hexo app `s init devsapp/website-example:website-hexo`
-- docusaurus app `s init devsapp/website-example:website-docusaurus`
-- vuepress app `s init devsapp/website-example:website-vuepress`
+静态网站案例：https://github.com/devsapp/website-example
+- 普通静态资源应用: `s init devsapp/website-example:website-base`
+- react应用 `s init devsapp/website-example:website-react`
+- vue应用 `s init devsapp/website-example:website-vue`
+- hexo应用 `s init devsapp/website-example:website-hexo`
+- docusaurus应用 `s init devsapp/website-example:website-docusaurus`
+- vuepress应用 `s init devsapp/website-example:website-vuepress`
 
 ## Alinode
-Observability：
+可观测性：
     - Insight： https://github.com/devsapp/alinode-faas-insight    
     - Runtime Http:  https://github.com/devsapp/alinode-runtime-http    
     - FaaS Logs:  https://github.com/devsapp/alinode-faas-sls-log    
     - Runtime Deploy:  https://github.com/devsapp/alinode-runtime-deploy
 
-## Application cases of open source framework
+## 开源框架应用案例
 - Midway FaaS：https://github.com/devsapp/midway-hook-example
-    - react demo: `s init devsapp/midway-hook-example:midway-hook-react`
-    - vue demo `s init devsapp/midway-hook-example:midway-hook-vue`
+    - react模板: `s init devsapp/midway-hook-example:midway-hook-react`
+    - vue模板 `s init devsapp/midway-hook-example:midway-hook-vue`
 - Malagu：https://github.com/devsapp/start-s-malagu
 
-## Scene collection
+## 场景合集
 
-### Blog
+### Blog集合
 - Zblog:  https://github.com/devsapp/start-zblog    `s init devsapp/start-zblog`
 - Wordpress:  https://github.com/devsapp/start-wordpress    `s init devsapp/start-wordpress`
 - Hexo:  https://github.com/devsapp/start-hexo    `s init devsapp/start-hexo`
 - Vuepress:  https://github.com/devsapp/website-example    `s init devsapp/website-example:website-vuepress`
 - Django Blog: https://github.com/devsapp/django-blog    `s init devsapp/django-zblog` 
 
-### Enterprise official website
+### 企业官网
 - Metinfo: https://github.com/devsapp/start-metinfo   `s init devsapp/start-metinfo`
 
-### Community Q & A
+### 社区问答
 - Whatsns: https://github.com/devsapp/start-whatsns   `s init devsapp/start-whatsns`
 - Discuz: https://github.com/devsapp/start-discuz   `s init devsapp/start-discuz`
 
-### Electronic Commerce
+### 电子商务
 - Echsop： https://github.com/devsapp/start-ecshop    `s init devsapp/start-ecshop`
 - Expresscart： https://github.com/devsapp/start-expresscart    `s init devsapp/start-expresscart`
 
@@ -132,24 +132,24 @@ Observability：
 
 # Serverless Devs Registry Component Awesome
 
-## Basic components
+## 基础组件
 
-- Alibaba Cloud
-    - FC：
-        - Yaml description：https://github.com/devsapp/fc
-        - Command line interaction：https://github.com/devsapp/s-fc （Can be used directly without yaml mode）
-    - FNF：https://github.com/devsapp/fnf
-    - NAS：https://github.com/devsapp/nas
-    - ROS：https://github.com/devsapp/ros
-    - RAM： https://github.com/devsapp/ram
-    - VPC： https://github.com/devsapp/vpc
-    - SLS： https://github.com/devsapp/sls
-- Tencent Cloud
-    - SCF：https://github.com/devscomp/scf
+- 阿里云
+    - 函数计算（FC）：
+        - Yaml描述：https://github.com/devsapp/fc
+        - 命令行交互：https://github.com/devsapp/s-fc （可以在无Yaml模式下直接进行使用）
+    - Serverless工作流（FNF）：https://github.com/devsapp/fnf
+    - 硬盘挂载（NAS）：https://github.com/devsapp/nas
+    - 资源编排（ROS）：https://github.com/devsapp/ros
+    - 权限管理（RAM）： https://github.com/devsapp/ram
+    - 私有网络（VPC）： https://github.com/devsapp/vpc
+    - 日志服务（SLS）： https://github.com/devsapp/sls
+- 腾讯云
+    - 云函数（SCF）：https://github.com/devscomp/scf
 - AWS
     - Lambda：https://github.com/devscomp/lambda
 
-## Upper component
+## 上层组件
 
 <table>
 <tr>
